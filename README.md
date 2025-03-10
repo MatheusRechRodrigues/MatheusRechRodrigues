@@ -26,24 +26,20 @@
 
 ---
 
+## 📊 **GitHub Stats**  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRechRodrigues&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRechRodrigues&layout=compact&theme=dark" />
+</div>
+
+---
+
 ## 🏆 **Achievements**  
 
-### 🥇 Expo CEEP 2023 Winner  
-📌 I was awarded for my innovative project at **Expo CEEP 2023**.  
+### 🥇 Expo CEEP 2023 2° Place Winner  
+📌 I was awarded for my innovative technology project at **Expo CEEP 2023**.  
 <p align="center">
   <img src="https://i.imgur.com/3SDFVvv.jpeg" width="100%" alt="Expo CEEP 2023">
-</p>
-
-### 🔒 Cybersecurity Student  
-📌 Currently studying **cybersecurity** and enhancing my skills in **ethical hacking** and **digital protection**.  
-<p align="center">
-  <img src="URL_OF_CYBERSECURITY_IMAGE" width="100%" alt="Cybersecurity">
-</p>
-
-### 🐧 Linux Enthusiast  
-📌 Always learning more about **Linux**, its tools, and how to use it in development projects.  
-<p align="center">
-  <img src="URL_OF_LINUX_IMAGE" width="100%" alt="Linux">
 </p>
 
 ---
@@ -56,20 +52,6 @@
 
 ---
 
-## 🔥 **Featured Projects**  
-📌 **[Project 1](#)** - Brief description of the project.  
-📌 **[Project 2](#)** - Brief description of the project.  
-
-<p align="center">
-  <img src="URL_OF_PROJECT_IMAGE" width="100%">
-</p>
-
----
-
-## 🌍 **Where to find me**  
-📷 [Instagram](https://www.instagram.com/matheusrech/) | 💼 [LinkedIn](https://www.linkedin.com/in/matheusrechrodrigues) | 📝 [Blog](#)  
-
----
 
 💡 *"Technology drives the world, and I keep learning every day!"*  
 ⭐ If you liked my profile, don't forget to star my repositories! 🚀  
