@@ -3,9 +3,9 @@
 ---
 
 ## 🛠 **About Me**  
-💻 Web Developer | Html | Sass | Php
-🔒 Cybersecurity student at Estácio
-🏆 Improving skills in information security
+💻 Web Developer | Html | Sass | Php <br>
+🔒 Cybersecurity student at Estácio<br>
+🏆 Improving skills in information security<br>
 🐧 Learning Linux and exploring the open-source world
 
 ---
