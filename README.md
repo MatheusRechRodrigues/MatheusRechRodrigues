@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! I'm Matheus Rech Rodrigues 👋</h1>  
 
-<p align="center">
-  <img src="URL_OF_YOUR_BANNER_IMAGE" width="100%" alt="Banner Image">
-</p>
-
 ---
 
 ## 🛠 **About Me**  
