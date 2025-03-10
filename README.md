@@ -3,18 +3,18 @@
 ---
 
 ## 🛠 **About Me**  
-📌 I'm a **developer** passionate about **technology**, **cybersecurity**, and **Linux**.  
-📚 Currently studying **Cybersecurity** at **Estácio**.  
-💻 I love learning new technologies and facing challenges to evolve and stay updated.  
-🐧 Exploring the world of **Linux**, **Python**, **C**, and aiming to deepen my knowledge in **information security**.  
+💻 Web Developer | Html | Sass | Php
+🔒 Cybersecurity student at Estácio
+🏆 Improving skills in information security
+🐧 Learning Linux and exploring the open-source world
 
 ---
 
 ## 🌐 **Connect with Me**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheusrechrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/matheusrech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:matheusrech@domain.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/matheus-rech-rodrigues-903a1025b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/matheus_rodrigues2005/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:matheusrechrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### 🥇 Expo CEEP 2023 Winner  
 📌 I was awarded for my innovative project at **Expo CEEP 2023**.  
 <p align="center">
-  <img src="URL_OF_EXPO_CEEP_IMAGE" width="100%" alt="Expo CEEP 2023">
+  <img src="https://imgur.com/3SDFVvv" width="100%" alt="Expo CEEP 2023">
 </p>
 
 ### 🔒 Cybersecurity Student  
