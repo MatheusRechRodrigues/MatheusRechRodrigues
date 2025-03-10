@@ -31,7 +31,7 @@
 ### 🥇 Expo CEEP 2023 Winner  
 📌 I was awarded for my innovative project at **Expo CEEP 2023**.  
 <p align="center">
-  <img src="https://imgur.com/3SDFVvv" width="100%" alt="Expo CEEP 2023">
+  <img src="https://i.imgur.com/3SDFVvv.jpeg" width="100%" alt="Expo CEEP 2023">
 </p>
 
 ### 🔒 Cybersecurity Student  
