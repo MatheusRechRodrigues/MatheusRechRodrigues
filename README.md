@@ -21,7 +21,7 @@
 
 ## 🛠 **Tech Stack**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,sass,mysql,linux,c,python" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,sass,mysql,linux,kali,c,python" />
 </p>
 
 ---
