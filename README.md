@@ -13,7 +13,7 @@
 
 ## 🌐 **Connect with Me**  
 <p align="center">
-  <a href="www.linkedin.com/in/matheus-rech-rodrigues-903a1025b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/matheus-rech-rodrigues-903a1025b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/matheus_rodrigues2005/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:matheusrechrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
