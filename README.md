@@ -6,7 +6,7 @@
 💻 Web Developer | Html | Sass | Php <br>
 🔒 Cybersecurity student at Estácio<br>
 🏆 Improving skills in information security<br>
-🐧 Learning Linux and exploring the open-source world
+🐧 Learning Linux and exploring the open-source world<br>
 🎓 Certified IT Technician
 
 ---
